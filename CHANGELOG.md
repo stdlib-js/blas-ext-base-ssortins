@@ -2,6 +2,42 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-29)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
+-   [`0fd4f45`](https://github.com/stdlib-js/stdlib/commit/0fd4f455bff03c90b036950a7af767c1943c35e9) - **bench:** refactor to use string interpolation in `blas/ext/base/ssortins` [(#10895)](https://github.com/stdlib-js/stdlib/pull/10895) _(by Partha Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Partha Das
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
