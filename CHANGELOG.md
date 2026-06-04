@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-05)
+## Unreleased (2026-06-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f766a24`](https://github.com/stdlib-js/stdlib/commit/f766a2481ba05b540c57b8c058fe2ce399f52495) - **refactor:** use `strideX`/`offsetX` parameter names in `blas/ext/base/ssortins` [(#12541)](https://github.com/stdlib-js/stdlib/pull/12541) _(by Philipp Burckhardt)_
 -   [`1a3f9ed`](https://github.com/stdlib-js/stdlib/commit/1a3f9edaa5dd7978e023dce7adeb29d5c9511880) - **bench:** refactor to use string interpolation in `blas/ext/base` [(#11380)](https://github.com/stdlib-js/stdlib/pull/11380) _(by Karan Anand)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`0fd4f45`](https://github.com/stdlib-js/stdlib/commit/0fd4f455bff03c90b036950a7af767c1943c35e9) - **bench:** refactor to use string interpolation in `blas/ext/base/ssortins` [(#10895)](https://github.com/stdlib-js/stdlib/pull/10895) _(by Partha Das)_
@@ -26,11 +27,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Partha Das
+-   Philipp Burckhardt
 
 </section>
 
